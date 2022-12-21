@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nodes/little-test/"}
+{"dg-publish":true,"permalink":"/nodes/little-test/","tags":"gardenEntry"}
 ---
 
 Hello,Obsidian.
