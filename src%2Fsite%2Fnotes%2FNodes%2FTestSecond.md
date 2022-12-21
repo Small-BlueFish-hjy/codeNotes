@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nodes/test-second/"}
+{"dg-publish":true,"permalink":"/nodes/test-second/","tags":"gardenEntry"}
 ---
 
  一、MySQL安装文件夹的data文件夹不完整或者被移动了
